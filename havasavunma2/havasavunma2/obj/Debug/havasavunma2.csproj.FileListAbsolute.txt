@@ -1,0 +1,17 @@
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\obj\Debug\havasavunma2.csproj.AssemblyReference.cache
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\obj\Debug\havasavunma2.Form1.resources
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\obj\Debug\havasavunma2.Properties.Resources.resources
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\obj\Debug\havasavunma2.csproj.GenerateResource.cache
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\obj\Debug\havasavunma2.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\bin\Debug\havasavunma2.exe.config
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\bin\Debug\havasavunma2.exe
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\bin\Debug\havasavunma2.pdb
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\obj\Debug\havasavunma2.exe
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\obj\Debug\havasavunma2.pdb
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\bin\Debug\AForge.dll
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\bin\Debug\AForge.Video.dll
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\bin\Debug\AForge.xml
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\bin\Debug\AForge.Video.xml
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mustafa\.docker\arayüz\havasavunma2\havasavunma2\obj\Debug\havasavu.E085BAEC.Up2Date
